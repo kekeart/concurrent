@@ -1,6 +1,6 @@
 package com.infrastructure.concurrent.synchronize;
 
-public class MyLock {
+public class EmptyObject {
 
     //private boolean flag = true;
 }
